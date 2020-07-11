@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(to right, red , yellow); 
+}
+
+h1.head {
+    background: white;
+    border: black;
+    padding: 1rem 1.5rem;
+    margin: .5em;
+    text-align: center;
+}
+
+.about {
+    background: rgb(255, 255, 230);
+    border: .1em black;
+    margin: .5em .5em;
+    padding: .5em .5em;
+}
+h3 {
+    text-align: center;
+}
+.projects {
+    background: rgb(255, 255, 204);
+    border: .1em black;
+    margin: .5em .5em;
+    padding: .5em .5em;
+}
+.contact {
+    background: rgb(255, 255, 153);
+    border: .1em black;
+    margin: .5em .5em;
+    padding: .5em .5em;
+}
